@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+review_output/
+data/private/
+private_quotes.csv
+*.local.csv
+.DS_Store
